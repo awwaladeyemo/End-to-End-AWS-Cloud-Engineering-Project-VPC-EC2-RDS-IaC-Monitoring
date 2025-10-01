@@ -72,6 +72,7 @@ The project highlights skills in:
 * Enabled **CloudWatch metrics and alarms** for EC2 and RDS.
 * Configured **CloudTrail** to track API activity.
 * Created **KPI dashboards** to visualize performance.
+<img width="1897" height="510" alt="image" src="https://github.com/user-attachments/assets/7886102f-cf69-43bf-b9df-8c32877ff692" />
 
 ---
 
